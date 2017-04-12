@@ -1,0 +1,83 @@
+{
+  "name": "devilcoders/tachyons-scale",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "Tachyons Scale",
+  "branch": "",
+  "style": {
+    "name": "Swiss",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/SwissHeader",
+      "article": "article/SwissArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+    "heading": {
+      "fontWeight": 700,
+      "letterSpacing": "-0.01em"
+    },
+    "layout": {
+      "fluid": true
+    },
+    "colors": {
+      "text": "#000",
+      "background": "#fff",
+      "primary": "#05a",
+      "secondary": "#444",
+      "highlight": "#f30",
+      "border": "#ccc",
+      "muted": "#eee"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/devilcoders/tachyons-scale",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "tachyons-scale",
+      "subhead": "A plain js objects representing the default scale values of Tachyons css toolkit",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "tachyons-scale: A plain js objects representing the default scale values of Tachyons css toolkit",
+          "url": null
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "devilcoders",
+          "repo": "tachyons-scale"
+        }
+      ]
+    },
+    {
+      "component": "article",
+      "metadata": {
+        "source": "github.readme"
+      },
+      "html": "\n\n"
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/devilcoders/tachyons-scale",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/devilcoders",
+          "text": "devilcoders"
+        }
+      ]
+    }
+  ]
+}
