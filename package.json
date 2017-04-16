@@ -1,6 +1,6 @@
 {
   "name": "tachyons-scale",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A plain js objects representing the default scale values of Tachyons css toolkit",
   "main": "index.js",
   "repository": "git@github.com:devilcoders/tachyons-scale.git",
